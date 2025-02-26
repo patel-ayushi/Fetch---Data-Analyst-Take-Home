@@ -26,3 +26,4 @@ SQL queries were developed to analyze.
 Third: Communicate with Stakeholders
 	- An executive summary was prepared to communicate findings, insights, and next steps to business stakeholders.
 	- Refer to the file: Email_Communication.pdf
+Note: Additional SQL files are also attached.
